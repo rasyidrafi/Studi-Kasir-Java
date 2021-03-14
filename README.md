@@ -1,5 +1,5 @@
 # Studi Kasir Java
-Simple Cashier Program Build with Java
+Simple Cashier Program Build with Java  
 This is My School Project  
 
 ## Installation  
